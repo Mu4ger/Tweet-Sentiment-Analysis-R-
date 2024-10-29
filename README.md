@@ -1,4 +1,3 @@
-# Tweet-Sentiment-Analysis-Using-R
 # Twitter Sentiment Analysis on Donald Trump Tweets
 
 This project performs sentiment analysis on tweets from former U.S. President Donald Trump, utilizing R and the `quanteda` package. The project aims to uncover patterns in sentiment, identify frequently used terms, and visualize insights using frequency plots and word clouds. The code includes data cleaning, tokenization, and a dictionary-based approach to classify sentiment as positive, negative, or neutral.
